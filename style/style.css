@@ -41,3 +41,6 @@ p {
 .link:hover {
   text-decoration: underline;
 }
+.croissant {
+  width: 500px;
+}
